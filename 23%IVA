@@ -1,0 +1,8 @@
+#BORA COMEÇARRRRRRRRRRR
+Preco = float(input("Introduza o preço do artigo (sem IVA): "))
+
+#Calculos
+IVA = Preco * 0.23 + Preco
+
+#Resultado
+print("O Preço com IVA é: ", IVA)
